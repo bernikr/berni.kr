@@ -9,12 +9,12 @@
   color: '#808080'
 
 - name: linkedin
-  url: https://www.linkedin.com/in/bernhard-kralofsky/
+  url: https://linkedin.com/in/bernhard-kralofsky/
   icon: ri:linkedin-box-fill
   color: '#0A66C2'
 
 - name: strava
-  url: https://strava.com/athletes/18585598
+  url: https://strava.com/athletes/bernikr
   icon: bi:strava
   color: '#FC4C02'
 

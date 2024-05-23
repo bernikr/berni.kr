@@ -40,18 +40,22 @@
             </div>
         </header>
 
+        {% comment %}
         <!-- Dark / Light Mode Switch -->
-        {% # include theme-switch.html %}
+        {% include theme-switch.html %}
+        {% endcomment %}
 
         <!-- Social Media Links -->
         {% include social.html %}
-
+        
+        {% comment %}
         <!-- Insta/TikTok/YouTube Link-in-bio -->
-        {% # include bio.html %}
+        {% include bio.html %}
 
         <!-- Link Buttons -->
-        {% # include links.html %}
-
+        {% include links.html %}
+        {% endcomment %}
+        
         {% include footer.html %}
     </div>
     <script src="assets/script.js"></script>

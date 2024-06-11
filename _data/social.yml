@@ -22,3 +22,9 @@
   url: https://telegram.me/bernikr
   icon: ri:telegram-fill
   color: '#27A7E7'
+
+- name: signal
+  url: https://signal.me/#eu/mkUSDrzUq_58urTc2DvbK-oUoZgDOxAGGPJsNX7Xill_ycfsAqZAfLS_BLaqMwRj
+  icon: logos:signal
+  color: '#3a76f0'
+  

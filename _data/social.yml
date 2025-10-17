@@ -1,3 +1,8 @@
+- name: mastodon
+  url: https://mastodon.berni.kr/@bernikr
+  icon: ri:mastodon-fill
+  color: '#563ACC'
+
 - name: instagram
   url: https://instagram.com/bernikr_
   icon: ri:instagram-fill

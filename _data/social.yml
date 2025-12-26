@@ -33,3 +33,7 @@
   icon: logos:signal
   color: '#3a76f0'
   
+- name: deltachat
+  url: https://berni.kr/deltachat
+  icon: arcticons:delta-chat
+  color: '#687a82'
